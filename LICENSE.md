@@ -11,3 +11,5 @@ cat.jpg - image by "Choose_Freewill" on flickr.com: https://www.flickr.com/photo
 I couldn't see password when creating superuser and found solution for that by Aaron: https://stackoverflow.com/questions/38841720/cannot-type-password-creating-a-django-admin-superuser
 
 I had to see how to make new branch, solution by Daniel Ruoso, edited by Nate Anderson: https://stackoverflow.com/questions/2765421/how-do-i-push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too
+
+Tests were taken from: https://github.com/tangowithcode/tango_with_django_2_code/tree/master/progress_tests
